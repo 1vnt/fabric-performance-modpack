@@ -1,0 +1,16 @@
+name = "Performance Modpack"
+author = "Vincent Schweiger"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ddb16124a689b16d99b035542a7249e7ce4921338cd440864675762272bb23d"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
