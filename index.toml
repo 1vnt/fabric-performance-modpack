@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5a491cd795d79416bae929c00f8976034da2fd5a8db5ba405f1545aa3170cae6"
+hash = "6bb16b3b7fc966ac976f6fcc1dc8f6651b5ccbe104a08bdf305ca15d40f6b8ca"
 metafile = true
 
 [[files]]
@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
+hash = "f79a3cdea893a12fa0955186df68681016f5b98d94d31e8ea59fa250465578f6"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "d94432627c430eb6880b919c1e760acecfe3f91c11325484aa8a00aef6e360e4"
+hash = "6b2a55932e42ee353b45f39fe8ce7c39722a6dd9a6450122e90fa977fb37b330"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "164efc52b7ad52f4e8cab157bf584b8188df277191c0466493aa8bce1293ec59"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
@@ -102,5 +102,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "711713f7c48ce907b0d689b9d6e85d1aff90a65dccc9e29977726c1ce783bc03"
+hash = "4ce0b8619c26a4055a9ae47440741ed4b054d95d0c6d5e2d3f95567da165ac70"
 metafile = true
