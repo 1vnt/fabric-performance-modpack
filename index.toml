@@ -1,8 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "67f2d87418806a50c4513d8b0c6e90e3619af39b85a84456f3fb899588824f87"
+
+[[files]]
+file = "icon.png"
+hash = "aea9d8353178a6d4074b1a025fc52f3f955079280346798b5cf20dce3b5710e2"
+
+[[files]]
 file = "mods/achievements-optimizer.pw.toml"
 hash = "e77e267f66f81670f30832392878f0cb86e833d437016750b5cf129bd5f95249"
+metafile = true
+
+[[files]]
+file = "mods/almanac-lib.pw.toml"
+hash = "208a52276bf3af6ffd30b032b5954269bc30513053c279e7255cc167c38e5d5c"
 metafile = true
 
 [[files]]
